@@ -8,7 +8,6 @@ import java.util.List;
 import java.util.Scanner;
 
 public class AccountCreation {
-    static EncoderC enc = new EncoderC();
 
     static final String DB_FILE = "ADB.txt";
     static final String CODE_FILE = "code";
